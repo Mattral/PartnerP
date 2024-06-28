@@ -1,0 +1,7 @@
+
+node_packages/
+.cache
+build
+public/build
+.env
+.env.*
